@@ -1,0 +1,696 @@
+restaurant_id,name,cuisine,price
+1,Kilian Stuba,Creative,$$$$$
+2,Pfefferschiff,Classic cuisine,$$$$$
+3,Esszimmer,Creative,$$$$$
+4,Carpe Diem,Market cuisine,$$$$$
+5,Edvard,Modern cuisine,$$$$
+6,Das Loft,Modern cuisine,$$$$$
+7,Pramerl & the Wolf,Creative,$$$$$
+8,Walter Bauer,Classic cuisine,$$$$$
+9,SHIKI,Japanese,$$$$$
+10,Tian,Vegetarian,$$$$$
+11,aend,Modern cuisine,$$$$$
+12,Le Ciel by Toni Mörwald,Classic cuisine,$$$$$
+13,Chez TJ,Contemporary,$$$$
+14,Protégé,Contemporary,$$$
+15,Madera,Contemporary,$$$
+16,The Village Pub,Contemporary,$$$
+17,Plumed Horse,Contemporary,$$$$
+18,Wakuriya,Japanese,$$$$
+19,Sushi Yoshizumi,Japanese,$$$$
+20,Rasa,Indian,$$
+21,Maum,Korean,$$$$
+22,Al's Place,Californian,$$
+23,Aster,Californian,$$$
+24,Omakase,Japanese,$$$$
+25,Commonwealth,Contemporary,$$
+26,Luce,Contemporary,$$$
+27,Birdsong,American,$$$$
+28,In Situ,International,$$$$
+29,Mourad,Moroccan,$$$
+30,Hashiri,Japanese,$$$$
+31,Angler,Contemporary,$$$$
+32,Rich Table,Contemporary,$$$
+33,Kin Khao,Thai,$$
+34,Michael Mina,Contemporary,$$$$
+35,Sons & Daughters,Contemporary,$$$$
+36,Mister Jiu's,Chinese,$$$
+37,Nico,Contemporary,$$$
+38,jū-ni,Japanese,$$$$
+39,Keiko à Nob Hill,Fusion,$$$$
+40,The Progress,Californian,$$$
+41,State Bird Provisions,American,$$
+42,Octavia,Californian,$$$
+43,SPQR,Italian,$$$
+44,Lord Stanley,Californian,$$$
+45,Kinjo,Japanese,$$$$
+46,Sorrel,Californian,$$$
+47,Gary Danko,Contemporary,$$$$
+48,Bar Crenn,French,$$$
+49,Spruce,Californian,$$$
+50,Wako,Japanese,$$$$
+51,Madcap,Contemporary,$$$$
+52,Aubergine,Contemporary,$$$$
+53,Kenzo,Japanese,$$$$
+54,La Toque,Contemporary,$$$$
+55,Bouchon,French,$$$
+56,Auberge du Soleil,Californian,$$$$
+57,Farmhouse Inn & Restaurant,Californian,$$$$
+58,The Kitchen,Contemporary,$$$$
+59,Madrona Manor,Contemporary,$$$$
+60,Harbor House,Californian,$$$$
+61,Shin Sushi,Japanese,$$$
+62,Rustic Canyon,Californian,$$$
+63,Dialogue,Contemporary,$$$$
+64,Kato,Asian,$$$
+65,CUT,Steakhouse,$$$$
+66,Nozawa Bar,Japanese,$$$$
+67,Shunji,Japanese,$$$$
+68,Maude,Contemporary,$$$$
+69,Mori Sushi,Japanese,$$$$
+70,Trois Mec,Contemporary,$$$$
+71,Osteria Mozza,Italian,$$$
+72,Kali,Californian,$$$
+73,Le Comptoir,Californian,$$$$
+74,Q Sushi,Japanese,$$$$
+75,Shibumi,Japanese,$$$$
+76,Hayato,Japanese,$$$$
+77,Bistro Na's,Chinese,$$
+78,Orsa & Winston,Fusion,$$$$
+79,Taco María,Mexican,$$$
+80,Hana re,Japanese,$$$$
+81,Addison,Contemporary,$$$$
+82,Parachute,Fusion,$$
+83,Goosefoot,Contemporary,$$$$
+84,Elizabeth,Contemporary,$$$$
+85,EL Ideas,Contemporary,$$$$
+86,Band of Bohemia,Gastropub,$$$
+87,Schwa,Contemporary,$$$$
+88,Temporis,Contemporary,$$$$
+89,Entente,Contemporary,$$$
+90,Elske,Contemporary,$$$$
+91,Dusek's (Board & Beer),Gastropub,$$
+92,Roister,Contemporary,$$$
+93,Boka,Contemporary,$$$
+94,Blackbird,Contemporary,$$$
+95,Sepia,American,$$$
+96,North Pond,Contemporary,$$$
+97,Everest,French,$$$$
+98,Topolobampo,Mexican,$$$$
+99,Spiaggia,Italian,$$$$
+100,Monte,Creative,$$$$$
+101,Draga di Lovrana,Modern cuisine,$$$$$
+102,Noel,Modern cuisine,$$$$$
+103,Pelegrini,Modern cuisine,$$$$$
+104,360º,Modern cuisine,$$$$$
+105,Field,Modern cuisine,$$$$$
+106,La Degustation Bohême Bourgeoise,Modern cuisine,$$$$$
+107,Gastromé,Modern cuisine,$$$
+108,Domestic,Modern cuisine,$$$
+109,Substans,Modern cuisine,$$$
+110,Frederikshøj,Creative,$$$$
+111,Me‚Mu,Modern cuisine,$$$
+112,Ti Trin Ned,Modern cuisine,$$$
+113,Slotskøkkenet,Creative,$$$$
+114,Søllerød Kro,Modern cuisine,$$
+115,Jordnær,Danish,$$$
+116,Relæ,Modern cuisine,$$
+117,Kiin Kiin,Thai,$$
+118,formel B,Modern cuisine,$$
+119,Kokkeriet,Modern cuisine,$$$
+120,Clou,Modern cuisine,$$$$
+121,Marchal,Modern cuisine,$$
+122,Kong Hans Kælder,Classic French,$$$$
+123,Stud!o at The Standard,Creative,$$$
+124,108,Modern cuisine,$$$
+125,Era Ora,Italian,$$
+126,Alouette,Modern cuisine,$$$
+127,Frederiksminde,Creative,$$$
+128,Kadeau Bornholm,Creative,$$$$
+129,Ask,Modern cuisine,$$$
+130,Grön,Finnish,$$$
+131,Demo,Modern cuisine,$$$
+132,Olo,Modern cuisine,$$$
+133,Palace,Modern cuisine,$$$
+134,Ora,Modern cuisine,$$$
+135,Botrini's,Mediterranean,$$$$$
+136,Varoulko Seaside,Seafood,$$$$$
+137,Hytra,Modern cuisine,$$$$$
+138,Loaf On,Cantonese,$$
+139,Lei Garden (Kwun Tong),Cantonese,$
+140,Tim Ho Wan (Sham Shui Po),Dim Sum,$
+141,Lei Garden (Mong Kok),Cantonese,$
+142,Ming Court,Cantonese,$$$
+143,Yat Tung Heen (Jordan),Cantonese,$$
+144,Fu Ho (Tsim Sha Tsui),Cantonese,$$
+145,Shang Palace,Cantonese,$$$
+146,IM Teppanyaki & Wine,Teppanyaki,$$
+147,Ah Yat Harbour View (Tsim Sha Tsui),Cantonese,$$
+148,Rech,Seafood,$$$$
+149,Spring Moon,Cantonese,$$$
+150,Imperial Treasure Fine Chinese Cuisine,Cantonese,$$
+151,Sushi Tokami,Sushi,$$$$$
+152,Tosca,Italian,$$$
+153,Épure,French,$$$
+154,Yee Tung Heen,Cantonese,$$
+155,Yè Shanghai (Tsim Sha Tsui),Shanghainese,$
+156,Ho Hung Kee,Noodles and congee,$
+157,Jardin de Jade (Wan Chai),Shanghainese,$$
+158,Zhejiang Heen,Shanghainese,$$
+159,Takumi by Daisuke Mori,Innovative,$$$$$
+160,Kam's Roast Goose,Cantonese Roast Meats,$
+161,Pang's Kitchen,Cantonese,$
+162,Xin Rong Ji,Taizhou,$$$
+163,Qi (Wan Chai),Sichuan,$
+164,Man Wah,Cantonese,$$$$
+165,Summer Palace,Cantonese,$$$
+166,Octavium,Italian,$$$
+167,Arbor,Innovative,$$$
+168,VEA,Innovative,$$$$$
+169,Mandarin Grill + Bar,European contemporary,$$$$
+170,Yat Lok,Cantonese Roast Meats,$
+171,Guo Fu Lou,Cantonese,$$$
+172,Celebrity Cuisine,Cantonese,$$
+173,Sushi Wadatsumi,Sushi,$$$
+174,Arcane,European contemporary,$$$
+175,Duddell's,Cantonese,$$$
+176,Beefbar,Steakhouse,$$
+177,New Punjab Club,Indian,$$
+178,Kaiseki Den by Saotome,Japanese,$$$$$
+179,Belon,French,$$$
+180,Tate,Innovative,$$$$$
+181,The Ocean,French,$$$$$
+182,Costes Downtown,Modern cuisine,$$$$
+183,Borkonyha Winekitchen,Modern cuisine,$$$$
+184,Stand,Modern cuisine,$$$
+185,Babel,Modern cuisine,$$$$$
+186,Costes,Modern cuisine,$$$$$
+187,The Kitchen,Steakhouse,$$$
+188,Tim's Kitchen,Cantonese,$$
+189,Wing Lei,Cantonese,$$
+190,King,Cantonese,$
+191,Ying,Cantonese,$$
+192,Shinji by Kanesaka,Sushi,$$$$
+193,The Golden Peacock,Indian,$
+194,Zi Yat Heen,Cantonese,$$
+195,8 1/2 Otto e Mezzo - Bombana,Italian,$$$
+196,Pearl Dragon,Cantonese,$$$
+197,Lai Heen,Cantonese,$$
+198,FAGN,Modern cuisine,$$$$
+199,Credo,Creative,$$$$
+200,RE-NAA,Creative,$$$$
+201,Sabi Omakase,Sushi,$$$$
+202,Galt,Modern cuisine,$$$
+203,Kontrast,Scandinavian,$$$
+204,Statholdergaarden,Classic cuisine,$$$$
+205,Del Posto,Italian,$$$$
+206,Le Grill de Joël Robuchon,French,$$$$
+207,L'Appart,French,$$$$
+208,Okuda,Japanese,$$$$
+209,Wallsé,Austrian,$$$$
+210,Jeju Noodle Bar,Korean,$$
+211,Sushi Nakazawa,Japanese,$$$$
+212,Kosaka,Japanese,$$$$
+213,Bâtard,Contemporary,$$$$
+214,Hirohisa,Japanese,$$$
+215,Blue Hill,American,$$$$
+216,ZZ's Clam Bar,Seafood,$$$$
+217,Babbo,Italian,$$$$
+218,Carbone,Italian,$$$$
+219,Le Coucou,French,$$$
+220,Aldea,Mediterranean,$$$$
+221,Cote,Korean,$$$
+222,Bouley at Home,Contemporary,$$$
+223,Gotham Bar and Grill,American,$$$$
+224,Nix,Vegetarian,$$$
+225,Junoon,Indian,$$$$
+226,NoMad,Contemporary,$$$$
+227,The Musket Room,Contemporary,$$$
+228,Uncle Boons,Thai,$$
+229,Noda,Japanese,$$$$
+230,Gramercy Tavern,Contemporary,$$$$
+231,The Clocktower,Contemporary,$$$
+232,Ai Fiori,Italian,$$$$
+233,Casa Mono,Spanish,$$$
+234,Jewel Bako,Japanese,$$$
+235,The River Café,Contemporary,$$$$
+236,Bar Uchū,Japanese,$$$$
+237,Café China,Chinese,$$
+238,Kanoyama,Japanese,$$$
+239,Contra,Contemporary,$$$$
+240,Atomix,Korean,$$$$
+241,Kyo Ya,Japanese,$$$
+242,Kajitsu,Japanese,$$$
+243,Agern,Scandinavian,$$$$
+244,Caviar Russe,Contemporary,$$$$
+245,Tuome,Fusion,$$
+246,Tempura Matsui,Japanese,$$$$
+247,Sushi Yasuda,Japanese,$$$$
+248,Sushi Amane,Japanese,$$$$
+249,Café Boulud,French,$$$$
+250,Claro,Mexican,$$
+251,Satsuki,Japanese,$$$$
+252,Sushi Noz,Japanese,$$$$
+253,Sushi Inoue,Japanese,$$$$
+254,Meadowsweet,Mediterranean,$$$
+255,Casa Enríque,Mexican,$$
+256,Peter Luger,Steakhouse,$$$$
+257,Oxomoco,Mexican,$$$
+258,The Finch,American,$$$
+259,Faro,American,$$
+260,Senses,Modern cuisine,$$$$$
+261,atelier Amaro,Modern cuisine,$$$$
+262,Aniar,Creative,N/A
+263,Loam,Creative,N/A
+264,Wild Honey Inn,Classic cuisine,N/A
+265,Chestnut,Modern cuisine,N/A
+266,Mews,Modern cuisine,N/A
+267,Ichigo Ichie,Japanese,N/A
+268,Chapter One,Modern cuisine,N/A
+269,Greenhouse,Modern cuisine,N/A
+270,L'Ecrivain,Modern cuisine,N/A
+271,Campagne,Modern British,N/A
+272,Heron & Grey,Modern cuisine,N/A
+273,Lady Helen,Modern cuisine,N/A
+274,House,Modern cuisine,N/A
+275,Olympe,French,$$$$$
+276,Lasai,modern,$$$$$
+277,Oteque,modern,$$$$$
+278,Mee,Asian influences,$$$$$
+279,Cipriani,Italian,$$$$$
+280,Jun Sakamoto,Japanese,$$$$$
+281,Maní,creative,$$$$$
+282,Evvai,modern,$$$$$
+283,Picchi,Italian,$$$$$
+284,Kosushi,Japanese,$$$
+285,Ryo Gastronomia,Japanese,$$$$$
+286,Tangará Jean-Georges,modern,$$$$$
+287,Kinoshita,Japanese,$$$$$
+288,Kan Suke,Japanese,$$$$$
+289,Huto,Japanese,$$$$$
+290,Stay,French contemporary,$$$
+291,Lee Jong Kuk 104,Korean,$$$$
+292,Hansikgonggan,Korean,$$$
+293,Dining in Space,French contemporary,$$$
+294,Exquisine,Innovative,$$$
+295,Dosa,Innovative,$$$
+296,Joo Ok,Korean contemporary,$$$
+297,Balwoo Gongyang,Temple cuisine,$$
+298,Muoki,Innovative,$$$
+299,L'Amitié,French,$$$
+300,Yu Yuan,Chinese,$$$
+301,Bicena,Korean,$$$
+302,Mosu,Innovative,$$$$$
+303,Poom,Korean,$$$
+304,Soigné,Innovative,$$$
+305,Table for Four,European contemporary,$$$
+306,Zero Complex,Innovative,$$$
+307,Jin Jin,Chinese,$
+308,Gotgan,Korean,$$$$
+309,Hill Street Tai Hwa Pork Noodle,Street Food,$
+310,Putien (Kitchener Road),Fujian,$
+311,Chef Kang's,Cantonese,$$$
+312,Garibaldi,Italian,$
+313,Summer Pavilion,Cantonese,$$
+314,Shinji (Bras Basah Road),Sushi,$$
+315,The Song of India,Indian,$
+316,Lei Garden,Cantonese,$
+317,Whitegrass,Australian,$$
+318,Jaan,French contemporary,$$$
+319,Labyrinth,Innovative,$$
+320,Cut,Steakhouse,$$$
+321,Alma,European contemporary,$
+322,Béni,French contemporary,$$
+323,Crystal Jade Golden Palace,Chinese,$
+324,Imperial Treasure Fine Teochew Cuisine (Orchard),Chinese,$
+325,Saint Pierre,French contemporary,$$
+326,Sushi Ichi,Sushi,$$$
+327,Sushi Kimura,Sushi,$$$$
+328,Iggy's,European contemporary,$$$
+329,Braci,Italian contemporary,$$
+330,Jiang-Nan Chun,Cantonese,$$$
+331,Bacchanalia,Innovative,$$
+332,Shinji (Tanglin Road),Sushi,$$$$
+333,Corner House,Innovative,$$
+334,Summer Palace,Cantonese,$
+335,Cheek by Jowl,Australian,$
+336,Nouri,Innovative,$
+337,Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle,Street Food,$
+338,Burnt Ends,Barbecue,$$
+339,Rhubarb,French contemporary,$
+340,Meta,Innovative,$$
+341,Ma Cuisine,French,$
+342,Candlenut,Peranakan,$
+343,Bhoga,Creative,$$$
+344,Koka,Modern cuisine,$$$
+345,28+,Modern cuisine,$$$
+346,SK Mat & Människor,Modern cuisine,$$$
+347,Thörnströms Kök,Classic cuisine,$$$
+348,Upper House,Creative,$$$$
+349,Agrikultur,Modern cuisine,$$$$
+350,Sushi Sho,Japanese,$$$
+351,Volt,Creative,$$$
+352,Ekstedt,Meats and grills,$$$
+353,Operakällaren,Classic cuisine,$$$$
+354,Mathias Dahlgren-Matbaren,Modern cuisine,$$
+355,Aloë,Creative,$$$$
+356,PM & Vänner,Creative,$$$
+357,Bloom in the Park,Creative,$$
+358,SAV,Creative,$$$
+359,Golden Formosa,Taiwanese,$$
+360,Danny's Steakhouse,Steakhouse,$$
+361,L'Atelier de Joël Robuchon,French contemporary,$$$
+362,Kitcho,Sushi,$$$$
+363,Tien Hsiang Lo,Hang Zhou,$$
+364,Ya Ge,Cantonese,$$
+365,Da-Wan,Barbecue,$$$
+366,Sushi Nomura,Sushi,$$$
+367,logy,Asian contemporary,$$$$
+368,Ming Fu,Taiwanese,$$$
+369,Ken An Ho,Japanese,$$$$
+370,Sushi Ryu,Sushi,$$$$
+371,MUME,European contemporary,$$$
+372,Impromptu by Paul Lee,Innovative,$$$
+373,Longtail,Innovative,$$
+374,Mountain and Sea House,Taiwanese,$$
+375,Da San Yuan,Cantonese,$
+376,Tainan Tan Tsu Mien Seafood,Seafood,$$
+377,Suan Thip,Thai,$
+378,Upstairs at Mikkeller,Innovative,$$$$$
+379,Chim by Siam Wisdom,Thai,$$$
+380,R-Haan,Thai,$$$$
+381,Canvas,Innovative,$$$$
+382,Bo.lan,Thai,$$$$$
+383,Sra Bua by Kiin Kiin,Thai Contemporary,$$$
+384,Elements,French contemporary,$$$$
+385,Paste,Thai,$$$
+386,Ginza Sushi ichi,Sushi,$$$$
+387,Sorn,Southern Thai,$$$$$
+388,Savelberg,French contemporary,$$$
+389,Saneh Jaan,Thai,$$
+390,Gaa,Innovative,$$$$
+391,Methavalai Sorndaeng,Thai,$$
+392,Jay Fai,Street Food,$$
+393,Nahm,Thai,$$$
+394,J'AIME by Jean-Michel Lorain,French contemporary,$$$
+395,Saawaan,Thai Contemporary,$$$$
+396,Le Du,Thai,$$$$
+397,Ruean Panya,Thai,$$
+398,PRU,Innovative,$$$$$
+399,Blue Duck Tavern,American,$$$
+400,Tail Up Goat,Contemporary,$$
+401,Komi,Mediterranean,$$$$
+402,Sushi Taro,Japanese,$$$$
+403,Plume,European,$$$$
+404,Siren by RW,Seafood,$$$
+405,Bresca,Contemporary,$$
+406,The Dabney,American,$$
+407,Métier,Contemporary,$$$$
+408,Kinship,Contemporary,$$$
+409,Fiola,Italian,$$$$
+410,Masseria,Italian,$$$
+411,Rose's Luxury,Contemporary,$$
+412,Loch Bay,Modern cuisine,N/A
+413,Braidwoods,Classic cuisine,N/A
+414,Eipic,Modern cuisine,N/A
+415,OX,Modern British,N/A
+416,The Peat Inn,Classic cuisine,N/A
+417,Kitchin,Modern cuisine,N/A
+418,Martin Wishart,Modern cuisine,N/A
+419,Number One,Modern cuisine,N/A
+420,21212,Creative,N/A
+421,The Cellar,Modern cuisine,N/A
+422,Forest Side,Modern British,N/A
+423,HRiSHi,Modern cuisine,N/A
+424,Rogan & Co,Creative British,N/A
+425,House of Tides,Modern cuisine,N/A
+426,Sosban & The Old Butchers,Modern cuisine,N/A
+427,Northcote,Modern British,N/A
+428,Yorke Arms,Modern cuisine,N/A
+429,Fraiche,Creative,N/A
+430,White Swan,Modern British,N/A
+431,Tyddyn Llan,Classic cuisine,N/A
+432,Ynyshir,Creative,N/A
+433,Black Swan,Modern British,N/A
+434,Simon Radley at Chester Grosvenor,Modern cuisine,N/A
+435,Star Inn at Harome,Modern British,N/A
+436,The Man Behind The Curtain,Creative,N/A
+437,The Checkers,French,N/A
+438,Pipe and Glass,Modern British,N/A
+439,Fischer's at Baslow Hall,Modern cuisine,N/A
+440,Winteringham Fields,Modern cuisine,N/A
+441,Thomas Carr @ The Olive Room,Seafood,N/A
+442,Walnut Tree,Modern British,N/A
+443,Paul Ainsworth at No.6,Modern cuisine,N/A
+444,Simpsons,Modern cuisine,N/A
+445,Purnell's,Modern cuisine,N/A
+446,Adam's,Modern cuisine,N/A
+447,Outlaw's Fish Kitchen,Seafood,N/A
+448,Carters of Moseley,Modern British,N/A
+449,Peel's,Creative British,N/A
+450,John's House,Modern cuisine,N/A
+451,The Whitebrook,Modern British,N/A
+452,James Sommerin,Modern cuisine,N/A
+453,Driftwood,Modern cuisine,N/A
+454,The Cross at Kenilworth,Classic cuisine,N/A
+455,Masons Arms,Classic French,N/A
+456,Salt,Modern British,N/A
+457,Le Champignon Sauvage,Modern cuisine,N/A
+458,Gidleigh Park,Modern cuisine,N/A
+459,Hambleton Hall,Classic cuisine,N/A
+460,wilks,Modern British,N/A
+461,Bulrush,Modern British,N/A
+462,Casamia,Creative,N/A
+463,Paco Tapas,Spanish,N/A
+464,Pony & Trap,Modern British,N/A
+465,The Dining Room,Asian influences,N/A
+466,Bybrook,Modern British,N/A
+467,Restaurant Hywel Jones by Lucknam Park,Modern British,N/A
+468,Olive Tree,Modern cuisine,N/A
+469,Lympstone Manor,Modern cuisine,N/A
+470,The Neptune,Modern cuisine,N/A
+471,Elephant,Modern British,N/A
+472,Oxford Kitchen,Modern British,N/A
+473,Nut Tree,Traditional British,N/A
+474,Morston Hall,Modern British,N/A
+475,Red Lion Freehouse,Classic cuisine,N/A
+476,Blackbird,Classic cuisine,N/A
+477,Woodspeen,Modern cuisine,N/A
+478,The Coach,Modern British,N/A
+479,Crown,Regional cuisine,N/A
+480,L'Ortolan,French,N/A
+481,Hinds Head,Traditional British,N/A
+482,Black Rat,Modern cuisine,N/A
+483,Matt Worswick at The Latymer,Modern cuisine,N/A
+484,Coworth Park,Modern cuisine,N/A
+485,Tudor Room,Modern cuisine,N/A
+486,The Glasshouse,Modern cuisine,N/A
+487,La Trompette,Modern British,N/A
+488,Tim Allen's Flitch of Bacon,Modern British,N/A
+489,River Café,Italian,N/A
+490,Kitchen W8,Modern cuisine,N/A
+491,Trishna,Indian,N/A
+492,Roganic,Creative British,N/A
+493,Locanda Locatelli,Italian,N/A
+494,Texture,Creative,N/A
+495,Portland,Modern cuisine,N/A
+496,Harwood Arms,Modern British,N/A
+497,Pied à Terre,Creative,N/A
+498,The Ninth,Mediterranean cuisine,N/A
+499,Kai,Chinese,N/A
+500,Pollen Street Social,Creative,N/A
+501,Hakkasan Mayfair,Chinese,N/A
+502,The Square,Creative French,N/A
+503,Alyn Williams at The Westbury,Modern cuisine,N/A
+504,Benares,Indian,N/A
+505,Hakkasan Hanway Place,Chinese,N/A
+506,Social Eating House,Modern cuisine,N/A
+507,Galvin at Windows,Modern cuisine,N/A
+508,Murano,Italian,N/A
+509,Marcus,Modern cuisine,N/A
+510,Sabor,Spanish,N/A
+511,Clock House,Modern cuisine,N/A
+512,Yauatcha Soho,Chinese,N/A
+513,Céleste,Creative French,N/A
+514,Gymkhana,Indian,N/A
+515,Amaya,Indian,N/A
+516,Pétrus,French,N/A
+517,Veeraswamy,Indian,N/A
+518,Barrafina,Spanish,N/A
+519,Hide,Modern British,N/A
+520,Ritz Restaurant,Modern British,N/A
+521,Elystan Street,Modern British,N/A
+522,Seven Park Place,Modern cuisine,N/A
+523,Ikoyi,Creative,N/A
+524,Aquavit,Scandinavian,N/A
+525,Five Fields,Modern cuisine,N/A
+526,Dining Room at The Goring,Traditional British,N/A
+527,St John,Traditional British,N/A
+528,Quilon,Indian,N/A
+529,Club Gascon,French,N/A
+530,A. Wong,Chinese,N/A
+531,The Clove Club,Modern cuisine,N/A
+532,Leroy,Modern British,N/A
+533,Angler,Seafood,N/A
+534,Brat,Traditional British,N/A
+535,Lyle's,Modern British,N/A
+536,Galvin La Chapelle,French,N/A
+537,City Social,Modern cuisine,N/A
+538,La Dame de Pic,Modern French,N/A
+539,Story,Modern cuisine,N/A
+540,Trinity,Modern cuisine,N/A
+541,Chez Bruce,French,N/A
+542,Sorrel,Modern British,N/A
+543,Restaurant Tristan,Modern British,N/A
+544,Gravetye Manor,Modern British,N/A
+545,The Sportsman,Modern British,N/A
+546,West House,Modern British,N/A
+547,Fordwich Arms,Modern cuisine,N/A
+548,Samphire,Modern cuisine,N/A
+549,Bohemia,Modern cuisine,N/A
+550,SENNS.Restaurant,Creative,$$$$$
+551,Ikarus,Creative,$$$$$
+552,Mraz & Sohn,Creative,$$$$$
+553,Konstantin Filippou,Modern cuisine,$$$$$
+554,Silvio Nickol Gourmet Restaurant,Modern cuisine,$$$$$
+555,Steirereck im Stadtpark,Creative,$$$$$
+556,Baumé,Contemporary,$$$$
+557,Commis,Contemporary,$$$$
+558,Californios,Mexican,$$$$
+559,Lazy Bear,Contemporary,$$$$
+560,Saison,Californian,$$$$
+561,Campton Place,Indian,$$$$
+562,Coi,Contemporary,$$$$
+563,Acquerello,Italian,$$$$
+564,Urasawa,Japanese,$$$$
+565,Sushi Ginza Onodera,Japanese,$$$$
+566,Somni,Contemporary,$$$$
+567,Providence,Seafood,$$$$
+568,n/naka,Contemporary,$$$$
+569,Vespertine,Contemporary,$$$$
+570,Smyth,Contemporary,$$$$
+571,Oriole,Contemporary,$$$$
+572,Acadia,Contemporary,$$$$
+573,KOKS,Creative,$$$$
+574,Henne Kirkeby Kro,Classic cuisine,$$$
+575,a‚o‚c,Modern cuisine,$$$$
+576,noma,Creative,$$$$
+577,Kadeau Copenhagen,Modern cuisine,$$$$
+578,Spondi,French,$$$$$
+579,Sun Tung Lok,Cantonese,$$
+580,Yan Toh Heen,Cantonese,$$$
+581,Tin Lung Heen,Cantonese,$$$
+582,Tenku RyuGin,Japanese,$$$$$
+583,Forum,Cantonese,$$
+584,Sushi Saito,Sushi,$$$$$
+585,Pierre,French contemporary,$$$$
+586,Ying Jee Club,Cantonese,$$
+587,Écriture,French contemporary,$$$
+588,Ta Vie,Innovative,$$$$$
+589,Amber,French contemporary,$$$$
+590,Kashiwaya,Japanese,$$$$
+591,Onyx,Modern cuisine,$$$$$
+592,Feng Wei Ju,Hunanese and Sichuan,$
+593,Golden Flower,Chinese,$$
+594,Mizumi (Macau),Japanese,$$
+595,The Tasting Room,French contemporary,$$$
+596,Alain Ducasse at Morpheus,French contemporary,$$$$$
+597,L'Atelier de Joël Robuchon,French,$$$$
+598,Jungsik,Korean,$$$$
+599,Atera,Contemporary,$$$$
+600,Jean-Georges,Contemporary,$$$$
+601,Marea,Seafood,$$$$
+602,Gabriel Kreuther,Contemporary,$$$$
+603,Ichimura at Uchū,Japanese,$$$$
+604,Sushi Ginza Onodera,Japanese,$$$$
+605,Ko,Contemporary,$$$$
+606,The Modern,Contemporary,$$$$
+607,Aquavit,Scandinavian,$$$$
+608,Daniel,French,$$$$
+609,Aska,Scandinavian,$$$$
+610,Blanca,Contemporary,$$$$
+611,Patrick Guilbaud,Modern French,N/A
+612,Oro,creative,$$$$$
+613,Tuju,creative,$$$$$
+614,D.O.M.,creative,$$$$$
+615,Kojima,Sushi,$$$$$
+616,Jungsik,Korean contemporary,$$$
+617,Kwonsooksoo,Korean,$$$
+618,Mingles,Korean contemporary,$$$
+619,Alla Prima,Innovative,$$$
+620,Waku Ghin,Japanese contemporary,$$$$$
+621,Odette,French contemporary,$$$$
+622,Shoukouwa,Sushi,$$$$$
+623,Shisen Hanten,Chinese,$
+624,Les Amis,French,$$$
+625,Fäviken Magasinet,Creative,$$$$
+626,Gastrologik,Creative,$$$$
+627,Oaxen Krog,Creative,$$$$
+628,Vollmers,Creative,$$$$
+629,Daniel Berlin,Creative,$$$$
+630,RAW,Innovative,$$$
+631,Shoun RyuGin,Japanese contemporary,$$$$
+632,Taïrroir,Innovative,$$$
+633,Sushi Amamoto,Sushi,$$$$
+634,The Guest House,Sichuan-Huai Yang,$$
+635,Gaggan,Innovative,$$$$$
+636,Sühring,European contemporary,$$$$
+637,Mezzaluna,Innovative,$$$$$
+638,Le Normandie,French contemporary,$$$$
+639,minibar,Contemporary,$$$$
+640,Pineapple and Pearls,Contemporary,$$$$
+641,Andrew Fairlie at Gleneagles,Creative French,N/A
+642,L'Enclume,Creative,N/A
+643,Raby Hunt,Modern British,N/A
+644,Moor Hall,Modern British,N/A
+645,Restaurant Sat Bains,Creative,N/A
+646,Restaurant Nathan Outlaw,Seafood,N/A
+647,Belmond Le Manoir aux Quat' Saisons,French,N/A
+648,Midsummer House,Modern cuisine,N/A
+649,Hand and Flowers,Modern British,N/A
+650,Ledbury,Modern cuisine,N/A
+651,CORE by Clare Smyth,Modern British,N/A
+652,Le Gavroche,French,N/A
+653,Kitchen Table at Bubbledogs,Modern cuisine,N/A
+654,Hélène Darroze at The Connaught,Modern cuisine,N/A
+655,Dinner by Heston Blumenthal,Traditional British,N/A
+656,Umu,Japanese,N/A
+657,Sketch (The Lecture Room & Library),Modern French,N/A
+658,Greenhouse,Creative,N/A
+659,Claude Bosi at Bibendum,French,N/A
+660,Amador,Creative,$$$$$
+661,Manresa,Contemporary,$$$$
+662,Benu,Asian,$$$$
+663,Quince,Contemporary,$$$$
+664,Atelier Crenn,Contemporary,$$$$
+665,The French Laundry,Contemporary,$$$$
+666,The Restaurant at Meadowood,Contemporary,$$$$
+667,SingleThread,Contemporary,$$$$
+668,Alinea,Contemporary,$$$$
+669,Geranium,Creative,$$$$
+670,T'ang Court,Cantonese,$$$
+671,Bo Innovation,Innovative,$$$$$
+672,Lung King Heen,Cantonese,$$$$
+673,Caprice,French,$$$$
+674,8½ Otto e Mezzo - Bombana,Italian,$$$$
+675,L'Atelier de Joël Robuchon,French contemporary,$$$$
+676,Sushi Shikon,Sushi,$$$$$
+677,The Eight,Chinese,$$$
+678,Robuchon au Dôme,French contemporary,$$$$
+679,Jade Dragon,Cantonese,$$
+680,Maaemo,Modern cuisine,$$$$
+681,Masa,Japanese,$$$$
+682,Per Se,Contemporary,$$$$
+683,Le Bernardin,Seafood,$$$$
+684,Eleven Madison Park,Contemporary,$$$$
+685,Chef's Table at Brooklyn Fare,Contemporary,$$$$
+686,La Yeon,Korean,$$$$
+687,Gaon,Korean,$$$$$
+688,Frantzén,Modern cuisine,$$$$
+689,Le Palais,Cantonese,$$
+690,The Inn at Little Washington,American,$$$$
+691,Fat Duck,Creative,N/A
+692,Waterside Inn,Classic French,N/A
+693,Alain Ducasse at The Dorchester,French,N/A
+694,The Araki,Japanese,N/A
+695,Gordon Ramsay,French,N/A
